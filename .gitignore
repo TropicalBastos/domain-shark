@@ -1,0 +1,5 @@
+*.pyc
+domainsBackup.log
+domainsInsta.log
+.vscode
+ghostdriver.log
